@@ -29,7 +29,8 @@ Our data source is a dataset containing global land temperature data. This datas
 Results of this project may include:
 
 Click on the link for csv file
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+
 https://datahub.io/core/global-temp
 
 
